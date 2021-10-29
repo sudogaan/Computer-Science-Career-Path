@@ -1,4 +1,6 @@
-#Basic Git Workflow
+#This program was written to run a recommendation engine using Python. 
+#The aim was to firstly evaluate what a person’s interests are and then give them recommendations in their area to venues, restaurants, and historical destinations that I think they’ll be engaged by.
+
 
 destinations = ["Paris, France", "Shanghai, China", "Los Angeles, USA", "São Paulo, Brazil", "Cairo, Egypt"]
 test_traveler = ["Erin Wilkes", "Shanghai, China", ["historical site", "art"]]
